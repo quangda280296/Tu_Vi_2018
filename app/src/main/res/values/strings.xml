@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Tử Vi 2018</string>
+    <string name="name">TỬ VI</string>
+    <string name="facebook_app_id">512677912443589</string>
+    <string name="fb_login_protocol_scheme">fb512677912443589</string>
+    <string name="banner_ads">ca-app-pub-4776693922147142/6007586959</string>
+    <string name="popup_ads">ca-app-pub-4776693922147142/3512327692</string>
+
+    <string name="result">KẾT QUẢ</string>
+    <string name="see_result">xem kết quả</string>
+    <string name="share_facebook">Share Facebook</string>
+    <string name="processing">Đang xử lý</string>
+    <string name="please_wait">Xin hãy đợi</string>
+    <string name="shared">Chia sẻ thành công</string>
+    <string name="no_internet">Không có kết nối Internet</string>
+    <string name="input_null">Bạn cần nhập đủ dữ liệu</string>
+    <string name="choose_year">Chọn năm</string>
+    <string name="press_back_again">Ấn thêm lần nữa để thoát khỏi ứng dụng</string>
+    <string name="done">Xong</string>
+
+    <string name="all_gender">Giới tính</string>
+    <string name="all_male">Nam</string>
+    <string name="all_female">Nữ</string>
+    <string name="all_name">Họ tên .....</string>
+    <string name="all_birthday">Ngày sinh</string>
+    <string name="all_birthyear">Năm sinh</string>
+    <string name="all_checkYear">Năm xem</string>
+
+    <string name="check_beautifulDay">Xem Ngày Tốt</string>
+    <string name="check_beautifulCard">Xem Sim Số Đẹp</string>
+    <string name="check_destiny">Xem Vận Mệnh Theo Ngày Sinh</string>
+    <string name="boi_Egypt">Bói Ai Cập</string>
+    <string name="choose_coupleAge">Chon Tuổi Vợ Chồng</string>
+    <string name="boi_love">Bói Tình Duyên</string>
+    <string name="choose_buildingYear">Chọn Năm Xây Nhà</string>
+    <string name="check_houseDirection">Xem Hướng Nhà</string>
+    <string name="boi_parentBirthDay">Bói Theo Năm Sinh Cha mẹ</string>
+    <string name="check_starDestiny">Sao Chiếu Mệnh</string>
+    <string name="check_luckyClothes">Trang Phục May Mắn</string>
+
+    <string name="check_beautifulDay_CAP">XEM NGÀY TỐT</string>
+    <string name="check_beautifulDay_title">Xem Ngày Khai Trương, Cưới Hỏi, Động Thổ...</string>
+    <string name="check_beautifulDay_work">Công việc</string>
+    <string name="check_beautifulDay_executeDay">Ngày tiến hành</string>
+
+    <string name="check_beautifulCard_CAP">BÓI SIM SỐ ĐẸP</string>
+    <string name="check_beautifulCard_title">Xem Sim Số Đẹp - Chọn Số Điện Thoại Đẹp theo Phong Thủy</string>
+    <string name="check_beautifulCard_birthhour">Giờ sinh</string>
+    <string name="check_beautifulCard_telephoneNumber">Số điện thoại .....</string>
+
+    <string name="check_destiny_CAP">XEM VẬN MỆNH THEO NGÀY SINH</string>
+    <string name="check_destiny_title">Dự đoán Thời Vận Tốt Xấu, Vận Hạn theo từng Năm</string>
+    <string name="check_destiny_checkYear">Năm xem</string>
+
+    <string name="boi_Egypt_CAP">BÓI AI CẬP</string>
+    <string name="boi_Egypt_title_">Xem Bói đoán Tính Cách, Công Việc, Tình Duyên</string>
+
+    <string name="choose_coupleAge_CAP">CHỌN TUỔI VỢ CHỒNG</string>
+    <string name="choose_coupleAge_title">Xem Tuổi Hợp Xung để Chọn Vợ, Chọn Chồng</string>
+    <string name="choose_coupleAge_birthyear">Năm sinh (dương lịch)</string>
+    <string name="choose_coupleAge_lunarYear">Năm âm lịch :</string>
+
+    <string name="boi_love_CAP">BÓI TÌNH DUYÊN</string>
+    <string name="boi_love_title">Xem Đường Tình Duyên cho Đôi Lứa</string>
+
+    <string name="choose_buildingYear_CAP">CHỌN NĂM XÂY NHÀ</string>
+    <string name="choose_buildingYear_title">Chọn Năm Xây Nhà theo Năm Sinh, Hợp Tuổi</string>
+    <string name="choose_buildingYear_buildingYear">Năm xây nhà</string>
+
+    <string name="check_houseDirection_CAP">XEM HƯỚNG NHÀ</string>
+    <string name="check_houseDirection_title">Chọn Hướng Nhà, Chọn Hướng Làm Nhà theo Tuổi</string>
+    <string name="check_houseDirection_direction">Hướng nhà</string>
+
+    <string name="boi_parentBirthday_CAP">BÓI THEO NĂM SINH CHA MẸ</string>
+    <string name="boi_parentBirthday_title">Chọn Năm Tốt, Hợp Tuổi với Bố Mẹ để Sinh Con</string>
+    <string name="boi_parentBirthday_father_birthyear">Năm sinh cha</string>
+    <string name="boi_parentBirthday_mother_birthyear">Năm sinh mẹ</string>
+    <string name="boi_parentBirthday_children_birthyear">Năm sinh con</string>
+
+    <string name="check_starDestiny_CAP">SAO CHIẾU MỆNH</string>
+    <string name="check_starDestiny_title">Xem Sao Chiếu Mệnh hàng năm và cách giải sao</string>
+
+    <string name="check_luckyClothes_CAP">TRANG PHỤC MAY MẮN</string>
+    <string name="check_luckyClothes_title">Xem Trang Phục Đem Lại May Mắn</string>
+
+</resources>

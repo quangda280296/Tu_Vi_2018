@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:padding="8dp">
+
+    <DatePicker
+        android:id="@+id/date_picker"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"
+        android:calendarViewShown="false"
+        android:datePickerMode="spinner"/>
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/date_time_set"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/all_height_button"
+            android:background="@mipmap/bg_btn_result"
+            android:text="@string/done"
+            android:textColor="@android:color/white"/>
+
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+</LinearLayout>
